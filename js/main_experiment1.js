@@ -139,7 +139,7 @@ function createObject() {
     }
 
     for (var j = 0; j < distinctiveObjects.length; j++) {
-        distinctiveObjects[j] = new CubeObject();
+        distinctiveObjects[j] = new VideoObject('ishibashi_1-1.mp4');
         distinctiveObjects[j].createCubeObject(
             Math.random() * 1000 - 500,
             Math.random() * 1000 - 500,

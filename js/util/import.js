@@ -6,6 +6,7 @@ document.write('<script src="js/webgl/Projector.js"></script>')
 
 /* model */
 document.write('<script src="js/model/CubeObject.js"></script>');
+document.write('<script src="js/model/VideoObject.js"></script>');
 document.write('<script src="js/model/RGBDirectionalLight.js"></script>');
 document.write('<script src="js/model/WhiteDirectionalLight.js"></script>');
 document.write('<script src="js/model/MainCameraObject.js"></script>');
